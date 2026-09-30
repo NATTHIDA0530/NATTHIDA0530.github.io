@@ -3,12 +3,12 @@ body {
     line-height: 1.6; /* ระยะห่างระหว่างบรรทัดเพื่อให้ง่ายต่อการอ่าน */
     margin: 0;
     padding: 0;
-    background-color: #8A2BE2; /* สีพื้นหลังของเว็บ */
-    color: #808080; /* สีตัวอักษรหลัก */
+    background-color: #ADD8E6; /* สีพื้นหลังของเว็บ */
+    color: #ADD8E6; /* สีตัวอักษรหลัก */
 }
 
 header {
-    background: #4CAF50; /* สีพื้นหลังของส่วนหัว */
+    background: #87CEEB; /* สีพื้นหลังของส่วนหัว */
     color: white; /* สีข้อความ */
     padding: 20px 0; /* ระยะห่างด้านบนและด้านล่าง */
     text-align: center; /* จัดข้อความกึ่งกลาง */
