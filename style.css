@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ADD8E6; /* สีพื้นหลังของเว็บ */
-    color: #ADD8E6; /* สีตัวอักษรหลัก */
+    color: #000000; /* สีตัวอักษรหลัก */
 }
 
 header {
