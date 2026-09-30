@@ -9,7 +9,7 @@ body {
 
 header {
     background: #87CEEB; /* สีพื้นหลังของส่วนหัว */
-    color: white; /* สีข้อความ */
+    color: Black; /* สีข้อความ */
     padding: 20px 0; /* ระยะห่างด้านบนและด้านล่าง */
     text-align: center; /* จัดข้อความกึ่งกลาง */
 }
